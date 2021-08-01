@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.tab-btn {
+  color: #7b8794;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  margin-right: 20px;
+  margin-left: 5px;
+}
+.horizontal-line {
+  border: 1px solid #7b8794;
+}
+.active-tab-btn {
+  color: #2563eb;
+}
+.active-hr-line {
+  border: 1px solid #2563eb;
+}
